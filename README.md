@@ -1,13 +1,12 @@
-<h1 align="center"> Explorer NLW Copa </h1>
+<h1 align="center"> Pokédex </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Pokédex do anime Pokemon feita para estudos, através do canal no yotube <a href="https://www.youtube.com/@ManualdoDev">Manual do Dev</a>
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -18,7 +17,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="pokedex" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -27,15 +26,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
+- [PokéAPI](https://pokeapi.co/)
 - Git e Github
 
 ## 💻 Projeto
 
-O Calendario da Copa é um projeto que mostra os jogos da copa 2022.
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/0LwXzxQ8h4H9XtKea76Vgf/Calend%C3%A1rio-de-Jogos-(Community)/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Esse projeto de pokédex foi realizado com o intuito de praticar JavaScript e Consumir uma API. Você pode pesquisar qualquer pokemon da primeira geração pelo nome ou numéro(id) do pokemon.
 
 ## :memo: Licença
 
